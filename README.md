@@ -1,6 +1,6 @@
 ## Adafruit NeoDriver - I2C to NeoPixel Driver Board - Stemma QT PCB
 
-<a href="http://www.adafruit.com/products/5766"><img src="assets/5766.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/5766"><img src="assets/5766-05.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit NeoDriver - I2C to NeoPixel Driver Board - Stemma QT. 
